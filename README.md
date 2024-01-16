@@ -2,7 +2,7 @@
 I'm a Computer science student with passion for exploring new technologies, designing, and building applications.
 
 #### Hobbies:
-🌿Hiking
+🌿Hiking </br>
 🌺 Journalling </br>
 👩‍💻 Coding  </br>
 📷 Photography</br>
