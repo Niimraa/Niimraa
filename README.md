@@ -2,10 +2,11 @@
 I'm a Computer science student with passion for exploring new technologies, designing, and building applications.
 
 #### Hobbies:
+🌿Hiking
 🌺 Journalling </br>
 👩‍💻 Coding  </br>
 📷 Photography</br>
-🌿Hiking
+
 
 #### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/haleema-ahmed-h22/)
