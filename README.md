@@ -1,5 +1,5 @@
 ### Hi there, I'm Haleema! 👋
-I'm a Computer science student with passionate for exploring new technologies, designing, and building applications.
+I'm a Computer science student with passion for exploring new technologies, designing, and building applications.
 
 #### Hobbies:
 🌺 Journalling </br>
