@@ -8,7 +8,7 @@ I'm a Computer science student with passion for exploring new technologies, desi
 📷 Photography</br>
 
 
-####🌐 Let's Connect!
+#### 🌐 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/haleema-ahmed-h22/)
 - [Email](mailto:hhnimra@gmail.com)
   
