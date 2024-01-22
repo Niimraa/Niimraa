@@ -1,5 +1,21 @@
-### Hi there, I'm Haleema! 👋
-I'm a computer science student with passion for exploring new technologies, designing, and building applications.
+### Hi there! 👋
+
+### About Me 
+```
+{
+  "name" : "Haleema Ahmed",
+  "school" : "University of Saskatchewan",
+  "Major" : "Computer Science",
+  "Minor" : "Mathematics",
+  "year" : "third year",
+  "job-searching" : true,
+  "prev-experience" : ["FIFA","Ubineer", "CaseStudyU", "The Canadian Hub for Applied and Social
+Research ", "University Of Saskatchewan"],
+  "goal" : "to create software that helps the world"
+}
+```
+
+
 
 #### 💫 Hobbies:
 🌿Hiking </br>
