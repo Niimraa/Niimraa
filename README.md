@@ -5,8 +5,8 @@
 {
   "name" : "Haleema Ahmed",
   "school" : "University of Saskatchewan",
-  "Major" : "Computer Science",
-  "Minor" : "Mathematics",
+  "major" : "Computer Science",
+  "minor" : "Mathematics",
   "year" : "third year",
   "job-searching" : true,
   "prev-experience" : ["FIFA","Ubineer", "CaseStudyU", "The Canadian Hub for Applied and Social Research ", "University Of Saskatchewan"],
