@@ -6,7 +6,7 @@
 </h1>
 
 
-### About Me 
+### About Me  🚀
 ```
 {
   "name" : "Haleema Ahmed",
@@ -32,4 +32,4 @@
 - [LinkedIn](https://www.linkedin.com/in/haleema-ahmed-h22/)
 - [Email](mailto:hhnimra@gmail.com)
   
-Let's collaborate, share ideas, and learn together! 🚀
+
