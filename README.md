@@ -12,7 +12,7 @@
   "name" : "Haleema Ahmed",
   "major" : "Computer Science",
   "minor" : "Mathematics",
-  "goal" : "to create softwares that helps the world"
+  "goal" : "to create softwares that positively impacts the world"
 }
 ```
 
