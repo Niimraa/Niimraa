@@ -25,7 +25,3 @@
 📷 Photography</br>
 
 
-#### 🌐 Let's Connect!
-- [Email](mailto:hhnimra@gmail.com)
-  
-
